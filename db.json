@@ -12,40 +12,47 @@
   "product": [
     {
       "id": 3,
-      "avatar":"https://m.media-amazon.com/images/I/81UmTnrBDSL._AC_UY327_FMwebp_QL65_.jpg",
-      "title":"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
-      "price":"17,999" 
+      "avatar": "https://m.media-amazon.com/images/I/81UmTnrBDSL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
+      "price": "17,999"
     },
     {
       "id": 4,
-      "avatar":"https://m.media-amazon.com/images/I/81Zo3lcSZeL._AC_UY327_FMwebp_QL65_.jpg",
-      "title":"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
-      "price":"19,999" 
+      "avatar": "https://m.media-amazon.com/images/I/81Zo3lcSZeL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
+      "price": "19,999"
     },
     {
       "id": 5,
-      "avatar":"https://m.media-amazon.com/images/I/51TuDBH70FL._AC_UY327_FMwebp_QL65_.jpg",
-      "title":"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
-      "price":"16,999" 
+      "avatar": "https://m.media-amazon.com/images/I/51TuDBH70FL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
+      "price": "16,999"
     },
     {
       "id": 6,
-      "avatar":"https://m.media-amazon.com/images/I/81UmTnrBDSL._AC_UY327_FMwebp_QL65_.jpg",
-      "title":"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
-      "price":"17,999" 
+      "avatar": "https://m.media-amazon.com/images/I/81UmTnrBDSL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
+      "price": "17,999"
     },
     {
       "id": 7,
-      "avatar":"https://m.media-amazon.com/images/I/81Zo3lcSZeL._AC_UY327_FMwebp_QL65_.jpg",
-      "title":"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
-      "price":"19,999" 
+      "avatar": "https://m.media-amazon.com/images/I/81Zo3lcSZeL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
+      "price": "19,999"
     },
     {
       "id": 8,
-      "avatar":"https://m.media-amazon.com/images/I/51TuDBH70FL._AC_UY327_FMwebp_QL65_.jpg",
-      "title":"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
-      "price":"16,999" 
+      "avatar": "https://m.media-amazon.com/images/I/51TuDBH70FL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
+      "price": "16,999"
     }
-    
+  ],
+  "cart": [
+    {
+      "id": 8,
+      "avatar": "https://m.media-amazon.com/images/I/51TuDBH70FL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
+      "price": "16,999"
+    }
   ]
 }

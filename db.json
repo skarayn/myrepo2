@@ -11,48 +11,70 @@
   ],
   "product": [
     {
-      "id": 3,
-      "avatar": "https://m.media-amazon.com/images/I/81UmTnrBDSL._AC_UY327_FMwebp_QL65_.jpg",
-      "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
-      "price": "17,999"
+      "link": "https://cdn.shopify.com/s/files/1/0906/2558/products/01_5e8187e3-f7a2-40aa-a759-d4bf69769234.jpg?v=1639496327",
+      "title": "Kohl Of Honour Intense Kajal - 01 Black Out (Black)",
+      "price": "249",
+      "rate": "4.8"
     },
     {
-      "id": 4,
-      "avatar": "https://m.media-amazon.com/images/I/81Zo3lcSZeL._AC_UY327_FMwebp_QL65_.jpg",
-      "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
-      "price": "19,999"
+      "link": "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-twist-and-shout-fadeproof-kajal-01-black-velvet-black-12771571433555_7f6a68fc-aa43-4788-a234-e2c1febc622a.jpg?v=1632208581",
+      "title": "Twist And Shout Fadeproof Kajal - 01 Black Velvet (Black)",
+      "price": "399",
+      "rate": "4.7"
     },
     {
-      "id": 5,
-      "avatar": "https://m.media-amazon.com/images/I/51TuDBH70FL._AC_UY327_FMwebp_QL65_.jpg",
-      "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
-      "price": "16,999"
+      "link": "https://cdn.shopify.com/s/files/1/0906/2558/products/01_79189b6b-9a44-4b2a-8940-e9a06731982e.jpg?v=1639496562",
+      "title": "Kohl Of Honour Intense Kajal - 03 Aqua Lung (Metallic Mint Green)",
+      "price": "249",
+      "rate": "4.7(7)"
     },
     {
-      "id": 6,
-      "avatar": "https://m.media-amazon.com/images/I/81UmTnrBDSL._AC_UY327_FMwebp_QL65_.jpg",
-      "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
-      "price": "17,999"
+      "link": "https://cdn.shopify.com/s/files/1/0906/2558/products/01_a52cdfbb-a4a1-4792-b1e1-1ed93fe0dd5e.jpg?v=1639496616",
+      "title": "Kohl Of Honour Intense Kajal - 06 Blue Moon (Metallic Baby Blue)",
+      "price": "249",
+      "rate": "4.7(13)"
     },
     {
-      "id": 7,
-      "avatar": "https://m.media-amazon.com/images/I/81Zo3lcSZeL._AC_UY327_FMwebp_QL65_.jpg",
-      "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
-      "price": "19,999"
+      "link": "https://cdn.shopify.com/s/files/1/0906/2558/products/01_5188ecb2-07a2-4b2c-b56d-696f7185aa0f.jpg?v=1639496600",
+      "title": "Kohl Of Honour Intense Kajal - 05 Go Green (Dark Green)",
+      "price": "249",
+      "rate": "4.9(10)"
     },
     {
-      "id": 8,
-      "avatar": "https://m.media-amazon.com/images/I/51TuDBH70FL._AC_UY327_FMwebp_QL65_.jpg",
-      "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
-      "price": "16,999"
-    }
-  ],
-  "cart": [
+      "link": "https://cdn.shopify.com/s/files/1/0906/2558/products/1_e5870e67-022c-4b3c-ae84-87e30d4c3294.jpg?v=1639585064",
+      "title": "Stroke Of Genius Heavy-duty Kohl - 01 Back To Black (Black)",
+      "price": "499",
+      "rate": "4.7"
+    },
     {
-      "id": 8,
-      "avatar": "https://m.media-amazon.com/images/I/51TuDBH70FL._AC_UY327_FMwebp_QL65_.jpg",
-      "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
-      "price": "16,999"
+      "link": "https://cdn.shopify.com/s/files/1/0906/2558/products/1_29d62649-64ef-4647-8f5f-4c795522d8c4.jpg?v=1639585091",
+      "title": "Stroke Of Genius Heavy-Duty Kohl - 07 Peacock (Peacock Green/ Velvet Green)",
+      "price": "499",
+      "rate": "5(4)"
+    },
+    {
+      "link": "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-twist-and-shout-fadeproof-kajal-02-still-got-the-blues-dark-blue-12771572187219_40970186-afbf-4e5a-a346-f61273099a7a.jpg?v=1632208792",
+      "title": "Twist And Shout Fadeproof Kajal - 02 Still Got The Blues (Dark Blue)",
+      "price": "595",
+      "rate": "4.8 (3)"
+    },
+    {
+      "link": "https://cdn.shopify.com/s/files/1/0906/2558/products/1_1bc2ee85-764e-4fe9-a38c-a4b2fb38880a.jpg?v=1639582935",
+      "title": "Stroke Of Genius Heavy-Duty Kohl - 03 Green Light (Green)",
+      "price": "399",
+      "rate": "4.4 (3)"
+    },
+    {
+      "link": "https://cdn.shopify.com/s/files/1/0906/2558/products/1_55d1e2d5-4711-4d11-bfa4-dabaee680f1e.jpg?v=1639583910",
+      "title": "Stroke Of Genius Heavy-Duty Kohl - 08 Brown Eyed Girl (Walnut Brown)",
+      "price": "499",
+      "rate": "5 (1)"
+    },
+    {
+      "link": "https://cdn.shopify.com/s/files/1/0906/2558/products/1_6573beaa-215a-4c48-bff5-3791d8c2f5de.jpg?v=1639585113",
+      "title": "Stroke Of Genius Heavy-Duty Kohl - 05 Black Magic (Black With Silver Glitter)",
+      "price": "499",
+      "rate": "4.8 (177)"
     }
   ]
 }
